@@ -1,4 +1,4 @@
-# dresscode-Hackathon
+# dresscode-Hackathon (TIC-TAC-TOE)
 
 Program je napisan u svrhu učestvovanja na novogodišnjem takmičenju Hackathon. Predstavlja napredniju verziju iks-oksa, napisan je u Java programskom jeziku. Komunikacija sa korisnikom se vrši interaktivnim grafičkim korisničkim interfejsom koji je implementiran pomoću "JavaFX" biblioteke. Da bi se program pokrenuo, potrebno je prethodno skinuti JavaFX biblioteku i importovati u svoj IDE. Na sledećem linku: https://openjfx.io/openjfx-docs/?fbclid=IwAR3gkcZvha6WR-Qdbnyyhutgnkp-ATLQfbyF4QdMTqeSg-iqoUqqjwxesBY#introduction može se naći uputstvo za importovanje pomenute biblioteke u Eclipse, InteliJ i Netbeans okruženje. Link za skidanje JavaFX: https://gluonhq.com/products/javafx/
 
